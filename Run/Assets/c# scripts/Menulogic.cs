@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement; 
 
-public class Menulogic : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
    public void ChangeScene()
     {
@@ -13,5 +13,6 @@ public class Menulogic : MonoBehaviour
     {
         Application.Quit();
     }
+
 
 }
